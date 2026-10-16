@@ -564,7 +564,7 @@ Total Servers: **626** | Unique Authors: **570** | Updated Daily.
 | [**Fulcra Context MCP**](https://mcp-serverlist.com/mcp/fulcra-context-mcp) | @fulcradynamics | [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) | Python | `uvx fulcra-context-mcp` | [⚡ Config](https://mcp-serverlist.com/mcp/fulcra-context-mcp) |
 | [**5dive MCP**](https://mcp-serverlist.com/mcp/5dive-mcp) | @5dive-ai | [5dive-mcp](https://github.com/5dive-ai/5dive-mcp) | Node.js | `npx -y 5dive-ai/5dive-mcp` | [⚡ Config](https://mcp-serverlist.com/mcp/5dive-mcp) |
 | [**Sdk MCP**](https://mcp-serverlist.com/mcp/sdk) | @2s-io | [sdk](https://github.com/2s-io/sdk) | Node.js | `npx -y 2s-io/sdk` | [⚡ Config](https://mcp-serverlist.com/mcp/sdk) |
-| [**Toolfunnel MCP**](https://mcp-serverlist.com/mcp/toolfunnel) | @Rendeverance | [toolfunnel](https://github.com/Rendeverance/toolfunnel) | Node.js | `npx -y Rendeverance/toolfunnel` | [⚡ Config](https://mcp-serverlist.com/mcp/toolfunnel) |
+| [**ToolFunnel** ✅](https://mcp-serverlist.com/mcp/toolfunnel) | @Rendeverance | [toolfunnel](https://github.com/Rendeverance/toolfunnel) | Node.js | `npx -y toolfunnel` | [⚡ Config](https://mcp-serverlist.com/mcp/toolfunnel) |
 
 ---
 
